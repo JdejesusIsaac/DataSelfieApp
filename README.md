@@ -1,5 +1,7 @@
 # DataSelfieApp
-In this Project I will be retrieving, collecting, and storing data.
+In this Project I will be retrieving, collecting, and storing data. 
+
+Web application that allows you to submit an image of your self along with your geolocation. self-tracking applications - standalone application to create a collection of "dataselfies" with some extra metadata.
 
 # Introduction
 
