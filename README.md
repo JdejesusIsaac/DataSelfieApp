@@ -23,9 +23,10 @@ Web application that allows you to submit an image of your self along with your 
 #SETUP
 In your terminal:
 
-npm install
+1. npm install
 
-then start your server
 
-node index.js
+Start server
+
+2. node index.js 
 
