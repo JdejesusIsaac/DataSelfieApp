@@ -27,7 +27,7 @@ In your terminal:
  npm install
 
 
-Start server
+Start server:
 
 node index.js 
 
