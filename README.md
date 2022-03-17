@@ -20,5 +20,12 @@ Web application that allows you to submit an image of your self along with your 
 7.using  p5.js library to connect to webcam, display webcams image on canvas, take data from image and pass it to database
 
 
+#SETUP
+In your terminal:
 
+npm install
+
+then start your server
+
+node index.js
 
