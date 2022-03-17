@@ -22,12 +22,12 @@ Web application that allows you to submit an image of your self along with your 
 
 # SETUP
 
-In your terminal:
+1.In your terminal:
 
  npm install
 
 
-Start server:
+2.Start server:
 
 node index.js 
 
