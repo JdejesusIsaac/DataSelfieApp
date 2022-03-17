@@ -29,5 +29,5 @@ In your terminal:
 
 Start server
 
-2. node index.js 
+node index.js 
 
