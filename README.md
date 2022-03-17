@@ -11,7 +11,7 @@ Web application that allows you to submit an image of your self along with your 
 
 3.using Fetch() to POST'. Sending data to server
 
-4.Saving data to NeDB. "DataBase" Npm 
+4.Saving data to NeDB. "DataBase"  
 
 5.Retrieving data from NeDB. "creating route".
 
